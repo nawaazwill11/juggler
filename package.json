@@ -1,0 +1,21 @@
+{
+  "name": "juggler",
+  "version": "1.0.0",
+  "description": "Random word picker and generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "juggler",
+    "mixer",
+    "wordpikcer"
+  ],
+  "author": "Nawaaz K.",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.2.1",
+    "urllib": "^2.34.1"
+  }
+}

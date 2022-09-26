@@ -16,6 +16,6 @@
   "license": "ISC",
   "dependencies": {
     "formidable": "^1.2.1",
-    "urllib": "^2.34.1"
+    "urllib": "^2.38.1"
   }
 }
